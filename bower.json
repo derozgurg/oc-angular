@@ -13,12 +13,12 @@
   "keywords": [
     "oc",
     "oc-ui",
-    "ui-lib", 
+    "ui-lib"
   ],
   "_source": "git://github.com/derozgurg/oc-angular.git",
   "authors": [
     "Özgğr Çimen"
   ],
-   "ignore": [],
-  "license": "MIT"  
+  "ignore": [],
+  "license": "MIT"
 }
