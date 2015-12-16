@@ -1,0 +1,19 @@
+{
+  "name": "oc-angular",
+  "description": "Angular 1.x library, CSS library",
+  "main": [
+    "oc-angular.css",
+    "oc-angular.min.js"
+  ],
+  "dependencies": {    
+  }, 
+  "keywords": [
+    "oc",
+    "oc-ui",
+    "ui-lib", 
+  ],
+  "authors": [
+    "Özgğr Çimen"
+  ],
+  "license": "MIT"  
+}
