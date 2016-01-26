@@ -4,7 +4,7 @@
 
 **install**
 
-bower install oc-anguler --save
+bower install oc-angular --save
 
 
 **usage**
