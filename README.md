@@ -2,6 +2,7 @@
 
 
 # usage 
+ocPopup
     var eventClick =  function(calEvent, jsEvent, view) {
         var eventPopup = $ocPopup.show({
             event: jsEvent,
