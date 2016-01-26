@@ -1,12 +1,8 @@
 # oc-angular 
 
 
-
-
-# usage
-
-ocPopup:
-var eventClick =  function(calEvent, jsEvent, view) {
+# usage 
+    var eventClick =  function(calEvent, jsEvent, view) {
     var eventPopup = $ocPopup.show({
         event: jsEvent,
         controller: "taskEventModCtrl",
