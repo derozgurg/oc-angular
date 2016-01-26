@@ -11,7 +11,7 @@ ocPopup:
                 event:jsEvent,
                 controller:"taskEventModCtrl",
                 resolve:{
-                    title:function(){return "Deneme Lan bu "}
+                    title:function(){return "Deneme Başlık"}
                 },
                 minWidth:400,
                 windowClass: 'edit-modal-window modal-sm',
