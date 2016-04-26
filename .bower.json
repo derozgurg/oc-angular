@@ -7,7 +7,8 @@
     "./oc-angular.min.js"
   ],
   "dependencies": {
-    "angular": "~1.2.28"
+    "angular": "~1.2.28",
+    "jquery_appear": "~1.2.28"
   },
   "homepage": "https://github.com/derozgurg/oc-angular",
   "keywords": [
